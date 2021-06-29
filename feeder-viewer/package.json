@@ -1,0 +1,19 @@
+{
+  "name": "prx-feeder-viewer",
+  "version": "1.0.0",
+  "description": "Display PRX feeder data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "semi": true,
+    "trailingComma": "all",
+    "useTabs": false,
+    "endOfLine": "lf",
+    "singleQuote": true,
+    "arrowParens": "avoid"
+  }
+}
