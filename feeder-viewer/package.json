@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "test": "test"
+    "test": "jest",
+    "watch": "jest --watch"
   },
   "prettier": {
     "printWidth": 100,
@@ -15,5 +16,8 @@
     "endOfLine": "lf",
     "singleQuote": true,
     "arrowParens": "avoid"
+  },
+  "dependencies": {
+    "jest": "^27.0.6"
   }
 }
