@@ -29,6 +29,7 @@ demonstrate your breadth and depth of skillz.
 - [ ] Add an audio player to playback the first media for each episode
 - [ ] Add a new page to display podcasts, using the links to each podcast
 - [ ] Style is important. Add style.
+- [ ] Write some tests! Always good to have tests.
 - [ ] Any other fun things you want to do with the data!
 
 You can feel free to add external javascript/css libraries, but this is all very
