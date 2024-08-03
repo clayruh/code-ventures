@@ -22,13 +22,13 @@ While I'm sobbing under my desk, pick a few tasks to make things better.
 These are in no particular order, so feel free to pick a variety that
 demonstrate your breadth and depth of skillz.
 
-- [ ] Add the episode descriptions to the page
-- [ ] Link to the episode urls
+- [x] Add the episode descriptions to the page
+- [x] Link to the episode urls
 - [ ] Implement some paging, so we can load more episodes
 - [ ] Display the episode itunes image
-- [ ] Add an audio player to playback the first media for each episode
+- [x] Add an audio player to playback the first media for each episode
 - [ ] Add a new page to display podcasts, using the links to each podcast
-- [ ] Style is important. Add style.
+- [x] Style is important. Add style.
 - [ ] Write some tests! Always good to have tests.
 - [ ] Any other fun things you want to do with the data!
 
